@@ -2,7 +2,7 @@
 
 <div align="center">
 
-A simple Python implementation of Caesar Cipher encryption algorithm for cryptography learning.
+A simple Python implementation of Caesar Cipher encryption algorithm for cryptography learning. This foundational encryption method demonstrates basic substitution cipher principles used in cybersecurity education
 
 ![Caesar Cipher Demo](https://github.com/user-attachments/assets/f0cc78df-2e18-4020-b8ee-13c86f79c258)
 
