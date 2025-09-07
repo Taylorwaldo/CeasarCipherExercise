@@ -28,7 +28,7 @@ This project is part of **Day 8** from the "100 Days of Code: The Complete Pytho
 2. Choose 'encode' to encrypt or 'decode' to decrypt
 3. Enter your message
 4. Enter the shift number (1-25)
-5. View the result!
+5. View the result
 
 ## Example
 
